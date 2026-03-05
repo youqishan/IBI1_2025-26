@@ -1,6 +1,25 @@
-I like getting GitHub to work
-I like music
-I like pork pies
-I like crisps
-I like tea very much
-I like Radio 4
+I like IBI1
+I like coding
+I like cooking
+I like chicken wings
+<<<<<<< HEAD
+I like running
+I like riding
+I like swimming
+
+I like listening to soft music very much
+I like art
+
+I like playing football
+=======
+
+I don't like sleeping
+I like listening to soft music
+I like art
+
+I like Chinese
+I like English
+I like Cantonese
+I like German
+I like Japanese
+>>>>>>> Eric
