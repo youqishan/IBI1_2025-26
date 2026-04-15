@@ -1,0 +1,15 @@
+Reflection on Practical 9
+
+I think today's practical is easier than practical in week 8
+
+For the development of SIR model, I think my study of Python finally become closely related to biology.
+
+The procedure of building a thermodynamic diagram is enjoyable, however the logic of infecting 8 neighbours is quite difficult.
+
+And for debuging, the class of the variables I define always confuses me. I have to write the pseudocode to remind me what type the variable is, however, this made my code cumbersome, so I always deleted them at the end.
+
+(Muttering to myself, why can't I write the pseudocode in Chinese?)
+
+Overall, the most important things I learn are that, I review how to draw a graph, also, using a np.zeros to create a two-dimensional array.
+
+I first try to make 10 list, each list has 10 elements, but this np.zeros is really convinient.
