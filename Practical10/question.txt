@@ -1,0 +1,21 @@
+Question: 
+Which countries/regions had the most stable DALYs changes and 
+which had the most volatile DALYs changes over the 30-year period (1990–2019)?
+
+Line number in dalys.py: 116
+
+Result discussion:
+
+In 1994, a major ethnic massacre occurred in Rwanda.
+Resulting in the DALYs data for that year being more than five times that of the previous year and the following year.
+Making Rwanda the country with the largest standard deviation in DALYs data.
+
+In addition, most developed countries with steady public health systems show the most stable DALYs changes. 
+Rwanda has the most violently fluctuating DALYs because of the 1994 humanitarian disaster, 
+which caused an abnormal spike in disease burden in a single year.
+
+
+
+I also try to find out whether the global DALYs have increased or decreased in 1999-2019 (line 75)
+and contract five great permanent members of security council (line 88).
+But they are hard to discuss the result, so I give up them.
