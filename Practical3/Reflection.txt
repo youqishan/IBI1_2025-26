@@ -1,0 +1,3 @@
+I am editing this file to show I have learn something in week3.
+
+In week3, I have learnt version control, how to navigate Unix-like systems and how to write simple programs in Python. However, I think using vscode to upload this file is still a bit difficult for me. I need to remove the original file and upload a new one to the correct place.
