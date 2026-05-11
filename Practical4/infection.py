@@ -10,8 +10,8 @@ new_infected = 0
 total = 5.0
 
 while total < 91:
-    # new_infected round down: for example, 2.8 infecters become 2!
-    new_infected = int(total * rate) 
+    # According to the feedback, I don't need to make a round down...
+    new_infected = total * rate
 
     day = day + 1
     total = total + new_infected
