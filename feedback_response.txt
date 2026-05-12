@@ -2,7 +2,7 @@ Feedback Response for Weeks 3-5:
 
 I have modified all defective parts of the assignments for Weeks 3-5:
 
-Week 3: My webpage had formatting issues, so I reprogrammed it using HTML.
+Week 3: My GitHub webpage had formatting issues, so I reprogrammed it using HTML.
 Week 4: The assignment prohibited using "round down", so I removed the "int()" function.
 Week 5: I omitted the "average gene expression" section, and I have now added this part to complete the code.
 
