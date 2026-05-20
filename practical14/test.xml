@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 根标签：定义两个命名空间前缀 -->
+<root 
+    xmlns:h="http://www.w3.org/TR/html4/"   
+    xmlns:f="http://example.com/furniture"
+
+>
+ <!-- 定义h前缀：代表HTML标签 -->
+ <!-- 定义f前缀：代表家具标签 -->
+ 
+    <!-- 1. 用h前缀的table：表示HTML网页表格 -->
+    <h:table>
+        <h:tr>
+            <h:td>姓名</h:td>
+            <h:td>年龄</h:td>
+        </h:tr>
+        <h:tr>
+            <h:td>张三</h:td>
+            <h:td>25</h:td>
+        </h:tr>
+    </h:table>
+
+    <!-- 2. 用f前缀的table：表示家具桌子 -->
+    <f:table>
+        <f:material>实木</f:material>
+        <f:color>胡桃色</f:color>
+        <f:size>120cm*60cm</f:size>
+    </f:table>
+</root>
