@@ -22,6 +22,11 @@ gene_dic = {
 gene_dic['MYC'] = 11.6
 print("The dictionary of genes is: ", gene_dic)
 
+'''Adding function: Calculate and print the average gene expression.'''
+expression_values = list(gene_dic.values())
+average_expression = sum(expression_values) / len(expression_values)
+print("The average gene expression value is: {:.2f}".format(average_expression))
+
 # name the x-axis and y-axis of the graph
 gene_name = list(gene_dic.keys())
 gene_value = list(gene_dic.values())
